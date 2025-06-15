@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+playwright
+chromadb
+sentence-transformers
+pandas
+tqdm
+python-multipart
