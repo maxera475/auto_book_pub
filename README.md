@@ -60,7 +60,7 @@ User can search all saved versions semantically
 bash
 Copy
 Edit
-git clone https://github.com/your-repo/auto_book_pub.git
+git clone https://github.com/maxera475/auto_book_pub.git
 cd auto_book_pub
 
 # Create and activate environment
